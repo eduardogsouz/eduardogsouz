@@ -15,7 +15,7 @@
     />
   </a>
 
-<a href="mailto:eduardogoncal.souza@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=eduardogoncal.souza@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red"
       alt="Gmail"
